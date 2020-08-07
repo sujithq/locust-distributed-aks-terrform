@@ -1,4 +1,5 @@
 
+
 Distributed Load Testing with Locust in Azure Kubernetes Service(AKS)
 
 ```
@@ -21,3 +22,5 @@ terraform apply
 
 kubectl get nodes,pods,svc
 ```
+
+This repo started from this repo: https://github.com/vignesh97/aks-locust-terraform but diverged
